@@ -1,2 +1,36 @@
-# bid_spider
-招标信息爬虫
+#### bid_spider
+#### 招标信息爬虫
+#### 根据关键字爬取招标网的招标信息，然后把数据插入到矩阵低代码招标应用中，方便查询
+###### 已经支持及即将支持的招标网站
+- [x] [中国政府采购网](http://www.ccgp.gov.cn/)
+- [x] [辽宁政府采购网](http://www.ccgp-liaoning.gov.cn/ )
+- [ ] [北京市政府采购网](http://www.ccgp-beijing.gov.cn/)
+- [ ] [天津市政府采购网](http://www.ccgp-tianjin.gov.cn/)
+- [ ] [上海市政府采购网](http://www.zfcg.sh.gov.cn/)
+- [ ] [重庆市政府采购网](https://www.ccgp-chongqing.gov.cn/)
+- [ ] [河北政府采购网](http://www.ccgp-hebei.gov.cn/)
+- [ ] [山西政府采购网](http://www.ccgp-shanxi.gov.cn/)
+- [ ] [陕西政府采购网](http://www.ccgp-shaanxi.gov.cn/)
+- [ ] [山东政府采购网](http://www.ccgp-shandong.gov.cn/)
+- [ ] [河南政府采购网](http://www.hngp.gov.cn/ )
+- [ ] [吉林政府采购网](http://www.ccgp-jilin.gov.cn/)
+- [ ] [黑龙江政府采购网](http://www.ccgp-hljcg.gov.cn/)
+- [ ] [江苏政府采购网](http://www.ccgp-jiangsu.gov.cn/)
+- [ ] [浙江政府采购网](http://www.zjzfcg.gov.cn/)
+- [ ] [安徽政府采购网](http://www.ccgp-anhui.gov.cn/)
+- [ ] [江西政府采购网](http://www.ccgp-jiangxi.gov.cn/)
+- [ ] [福建政府采购网](http://zfcg.czt.fujian.gov.cn/)
+- [ ] [湖北政府采购网](http://www.ccgp-hubei.gov.cn/)
+- [ ] [四川政府采购网](http://www.ccgp-hunan.gov.cn/)
+- [ ] [贵州政府采购网](http://www.ccgp-sichuan.gov.cn/)
+- [ ] [福建政府采购网](http://www.ccgp-guizhou.gov.cn/)
+- [ ] [云南政府采购网](http://www.ccgp-yunnan.gov.cn/)
+- [ ] [广东政府采购网](http://www.gdgpo.gov.cn/)
+- [ ] [海南政府采购网](http://www.ccgp-hainan.gov.cn/)
+- [ ] [甘肃政府采购网](http://www.ccgp-gansu.gov.cn/)
+- [ ] [青海政府采购网](http://www.ccgp-qinghai.gov.cn/)
+- [ ] [内蒙古政府采购网](http://www.nmgp.gov.cn/)
+- [ ] [新疆政府采购网](http://www.ccgp-xinjiang.gov.cn/)
+- [ ] [西藏政府采购网](http://www.ccgp-xizang.gov.cn/)
+- [ ] [广西政府采购网](http://zfcg.gxzf.gov.cn/)
+- [ ] [宁夏政府采购网](http://www.ccgp-ningxia.gov.cn/)

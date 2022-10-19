@@ -1,0 +1,29 @@
+class Info(object):
+    def __init__(self):
+        self.url = None
+        self.procurement_project_name = None #采购项目名称
+        self.spider_get_time = None #爬取时间
+        self.keyword = None #关键字
+        self.project_status = None #项目状态
+        self.procurement_corp_name = None #采购单位
+        self.area = None #地域
+        self.comment_time = None #公告时间
+        self.first_comment_time = None #首次公告日期
+        self.bid_comment_time = None #项目招标公告日期
+        self.corrections_time = None #修改日期
+        self.bid_document_price = None #招标文件售价
+        self.bid_winner_price = None #中标金额
+        self.bid_winner_name = None #中标人
+        self.bid_winner_time = None #中标日期
+        self.bid_winner_success_time = None #成交日期
+        self.budget = None
+        self.project_contact_name = None #项目联系人
+        self.project_contact_phone = None #项目联系电话
+        self.procurement_corp_address = None  #采购单位地址
+        self.procurement_corp_contact_phone = None #采购单位联系方式
+        self.agency_name = None #代理机构名称
+        self.agency_address = None #代理机构地址
+        self.agency_contact_phone = None #代理机构联系方式
+        self.source_name = None #来源网站
+        self.items = None #品目
+        self.appendix = None #附件
